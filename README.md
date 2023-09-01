@@ -4,7 +4,7 @@ Model finds the difference in price on the basis of warranty and service.
 Created API using Streamlit framework and integrate with model.
 
 Regression techniques used in the model:
----------------------------------------------------
+
 LinearRegression
 Ridge
 Lasso 
